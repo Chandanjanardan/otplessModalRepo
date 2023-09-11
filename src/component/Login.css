@@ -8,6 +8,7 @@
     display: none;
     justify-content: center;
     align-items: center;
+    /* color:aliceblue */
   }
   
   
@@ -15,9 +16,9 @@
     
     height: fit-content;
     width: fit-content;
+    /* background:black !important; */
     border-radius: 10px;
     backdrop-filter: blur(2px);
-    background:black !important;
   }
   
   
@@ -29,5 +30,9 @@
     border-radius: 5px;
     cursor: pointer;
   }
-  #otpless-login-page{
-  }
+  /* #otpless-login-page{
+    
+    background:black !important;
+  } */
+  
+  
