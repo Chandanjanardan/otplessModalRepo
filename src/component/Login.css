@@ -1,0 +1,33 @@
+.modal-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(8px);
+    display: none;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  .modal {
+    
+    height: fit-content;
+    width: fit-content;
+    border-radius: 10px;
+    backdrop-filter: blur(2px);
+    background:black !important;
+  }
+  
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  #otpless-login-page{
+  }
